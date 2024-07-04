@@ -39,7 +39,7 @@ npm run develop
 
 ```
 
-If you don't know how to start a server, check [this guide on how to start a local web server](https://learn.ml5js.org/docs/#/tutorials/local-web-server?id=running-a-local-web-server).
+If you don't know how to start a server, check [this guide on how to start a local web server](https://archive-docs.ml5js.org/#/tutorials/local-web-server).
 
 
 ## Examples Index
